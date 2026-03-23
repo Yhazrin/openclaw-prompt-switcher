@@ -1,0 +1,8 @@
+{
+  "name": "data-analyst",
+  "description": "数据分析专家",
+  "model": "claude-3-sonnet",
+  "temperature": 0.3,
+  "max_tokens": 4096,
+  "system_prompt_file": "system_prompt.txt"
+}

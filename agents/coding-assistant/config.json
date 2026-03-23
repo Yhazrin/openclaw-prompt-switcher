@@ -1,0 +1,8 @@
+{
+  "name": "coding-assistant",
+  "description": "专业的编程助手",
+  "model": "claude-3-sonnet",
+  "temperature": 0.7,
+  "max_tokens": 4096,
+  "system_prompt_file": "system_prompt.txt"
+}
